@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **100xDev Cohort By Harkirat Singh**
 
-- 💬 Ask me about **react, next, node, javascript**
+- 💬 Ask me about **React, Next.js, Node, Javascript, Typescript, PostgreSQL**
 
 - 📫 How to reach me **yewleshivam.p@gmail.com**
 
